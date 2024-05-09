@@ -1,0 +1,20 @@
+#logout-btn{
+    background: #0263c7;
+    border-radius: 14px;
+    padding: 8px 16px;
+    gap: 10px;
+    width: 80px;
+    height: 38px;
+    border: none;
+    color: white;
+    text-align: center;
+}
+
+.login-button:hover {
+    background-color: #0359ae;
+}
+
+.login-button:active {
+    box-shadow: 0 3px #0263c7;
+    transform: translateY(4px);
+}
